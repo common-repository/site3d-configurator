@@ -1,0 +1,71 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Site3D Configurator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-25 09:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9.1\n"
+"X-Domain: site3d-configurator"
+
+#: inc/admin-mainpage.php:60
+msgid "Configurator ID"
+msgstr ""
+
+#: inc/admin-mainpage.php:74
+msgid "Get a Shortcode"
+msgstr ""
+
+#: inc/admin-mainpage.php:68
+msgid "Height"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://configurator.site3d.site"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://site3d.site/"
+msgstr ""
+
+#: inc/admin-mainpage.php:55
+msgid ""
+"If you know the parameters of an already created configurator, then you can "
+"get a shot code for inserting it below"
+msgstr ""
+
+#: inc/admin-mainpage.php:54
+msgid "service"
+msgstr ""
+
+#. Author of the plugin
+#: inc/admin-mainpage.php:31
+msgid "Site3D"
+msgstr ""
+
+#. Name of the plugin
+#: inc/admin-mainpage.php:31 inc/admin-mainpage.php:53
+msgid "Site3D Configurator"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The plugin allows you to use a shotcode to add a widget to any place on the "
+"site to demonstrate a 3D model with the ability to configure it"
+msgstr ""
+
+#: inc/admin-mainpage.php:64
+msgid "Width"
+msgstr ""
+
+#: inc/admin-mainpage.php:54
+msgid "You need to create a configurator in our"
+msgstr ""

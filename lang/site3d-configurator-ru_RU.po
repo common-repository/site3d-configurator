@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Site3d 1.0\n"
+"POT-Creation-Date: 2022-04-08 18:37+0300\n"
+"PO-Revision-Date: 2022-04-08 18:37+0300\n"
+"Last-Translator: \n"
+"Language-Team: Evgeny Sidorov\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: admin-mainpage.php\n"
+"X-Poedit-SearchPath-1: site3d-configurator.php\n"
+
+#: admin-mainpage.php:31 admin-mainpage.php:53
+msgid "Site3D Configurator"
+msgstr "Site3D Конфигуратор"
+
+#: admin-mainpage.php:31
+msgid "Site3D"
+msgstr "Site3D"
+
+#: admin-mainpage.php:54
+msgid "You need to create a configurator in our"
+msgstr "Вам необходимо создать конфигуратор в нашем"
+
+#: admin-mainpage.php:54
+msgid "service"
+msgstr "сервисе"
+
+#: admin-mainpage.php:56
+msgid "Generate shortcode"
+msgstr "Сгенерировать шорткод"
+
+#: admin-mainpage.php:61
+msgid "Configurator ID *"
+msgstr "ID конфигуратора"
+
+#: admin-mainpage.php:65
+msgid "Width"
+msgstr "Ширина"
+
+#: admin-mainpage.php:69
+msgid "Height"
+msgstr "Высота"
+
+#: admin-mainpage.php:73
+msgid "Language"
+msgstr "Язык"
+
+#: admin-mainpage.php:84
+msgid "Get a Shortcode"
+msgstr "Получить шорткод"
+
+#: admin-mainpage.php:86
+msgid "Shortcode copied!"
+msgstr "Шорткод скопирован!"
+
+#~ msgid ""
+#~ "If you know the parameters of an already created configurator, then you "
+#~ "can get a shot code for inserting it below"
+#~ msgstr ""
+#~ "Если вы знаете параметры уже созданного конфигуратора, то можете получить "
+#~ "шот-код для его вставки ниже"
